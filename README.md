@@ -1,5 +1,7 @@
 # Employee Attrition Drivers | HR Analytics Dashboard
 
+![HR Analytics Dashboard Cover](Dashboard/Screenshots/Home.png)
+
 An end-to-end HR analytics and business intelligence project built in **Microsoft Excel** using **Power Query, Power Pivot, DAX, PivotTables, charts, and interactive dashboard navigation**.
 
 The project explores employee attrition patterns across workforce demographics, overtime, satisfaction, and career progression. It is designed to help HR stakeholders explore where attrition is concentrated and which employee attributes are associated with higher attrition rates.
